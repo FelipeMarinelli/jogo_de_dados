@@ -1,0 +1,7 @@
+C:\Users\CIVAP\source\repos\jogo de dados\jogo de dados\bin\Debug\jogo de dados.exe.config
+C:\Users\CIVAP\source\repos\jogo de dados\jogo de dados\bin\Debug\jogo de dados.exe
+C:\Users\CIVAP\source\repos\jogo de dados\jogo de dados\bin\Debug\jogo de dados.pdb
+C:\Users\CIVAP\source\repos\jogo de dados\jogo de dados\obj\Debug\jogo de dados.csproj.AssemblyReference.cache
+C:\Users\CIVAP\source\repos\jogo de dados\jogo de dados\obj\Debug\jogo de dados.csproj.CoreCompileInputs.cache
+C:\Users\CIVAP\source\repos\jogo de dados\jogo de dados\obj\Debug\jogo de dados.exe
+C:\Users\CIVAP\source\repos\jogo de dados\jogo de dados\obj\Debug\jogo de dados.pdb
